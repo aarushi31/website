@@ -1142,7 +1142,9 @@ p {
     .subscribe-content .subscribe-title {
       font-size: 24px; } }
   .subscribe-content .subscribe-title span {
-    font-weight: 400; }
+    font-size: 18px;
+    font-weight: 400;
+   }
 
 .subscribe-form {
   position: relative; }
